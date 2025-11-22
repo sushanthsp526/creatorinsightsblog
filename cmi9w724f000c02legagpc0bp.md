@@ -5,8 +5,8 @@ seoDescription: "9 Influencer Outreach Email Templates That Actually Get Replies
 datePublished: Sat Nov 22 2025 06:12:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmi9w724f000c02legagpc0bp
 slug: influencer-outreach-email-templates
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763791767268/522e2b3d-fc69-4d22-bb77-af8d07691180.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1763791923339/4ef76f6b-21dd-4e8f-8c10-400020c6335d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1763800034460/18a4d294-c87f-4dd9-9ecf-d30bf2350a23.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1763800054786/fb512d82-64ed-493e-a366-480e5a34c7f7.png
 tags: email-marketing, influencer-marketing, email-outreach-tools
 
 ---
