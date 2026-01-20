@@ -5,6 +5,7 @@ seoDescription: "Master social search with our 2026 guide. Learn how to use inst
 datePublished: Tue Jan 20 2026 16:37:27 GMT+0000 (Coordinated Universal Time)
 cuid: cmkmthpnl000b02la02gc3gk4
 slug: the-2026-social-search-playbook-how-to-reverse-engineer-viral-hits-without-the-ai-fluff
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768927312455/a9083025-ed5d-48ef-bccd-6057a4a9ba2b.webp
 tags: content-creation, viralcontentstrategy
 
 ---
