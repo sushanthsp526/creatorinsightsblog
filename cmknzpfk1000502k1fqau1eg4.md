@@ -1,8 +1,6 @@
 ---
 title: "Stop DMing Into the Void: Why Verified Contact Info is the Only Way to Scale in 2026"
-seoTitle: "Stop Being Ghosted: Influencer Outreach & CRM Guide
-
-"
+seoTitle: "Stop Being Ghosted: Influencer Outreach & CRM Guide"
 seoDescription: "Tired of being ghosted in the DM folder? Learn how to use verified emails and our outreach CRM to connect with 450M+ creators and track your results instant"
 datePublished: Wed Jan 21 2026 12:19:12 GMT+0000 (Coordinated Universal Time)
 cuid: cmknzpfk1000502k1fqau1eg4
