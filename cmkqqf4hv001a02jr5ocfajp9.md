@@ -5,7 +5,6 @@ seoDescription: "Boost Instagram following for your SaaS tool with engaging cont
 datePublished: Fri Jan 23 2026 10:22:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmkqqf4hv001a02jr5ocfajp9
 slug: how-to-increase-my-following-base-on-instagram-for-my-saas-tool-to-increase-sales
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769163712823/195f8649-56be-4ae5-9944-224f8e5215c5.webp
 tags: instagram, saas, sales, instagram-growth
 
 ---
