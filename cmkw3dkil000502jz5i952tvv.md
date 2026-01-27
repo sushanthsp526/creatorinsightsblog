@@ -5,7 +5,7 @@ seoDescription: "Choose YouTube Shorts or Instagram Reels based on personalized 
 datePublished: Tue Jan 27 2026 04:24:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmkw3dkil000502jz5i952tvv
 slug: youtube-shorts-vs-ig-reels-where-should-you-post
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769487862006/c577141d-51e5-434b-bb4c-2c82ed5fec58.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769487883275/a00d83a8-fb36-409f-ab41-b9958ba6dbf2.webp
 tags: instagram, youtube
 
 ---
