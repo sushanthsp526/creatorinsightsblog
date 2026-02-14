@@ -1,6 +1,6 @@
 ---
 title: "What is Creator Insights? The Comprehensive 2026 Guide to the World's Largest Creator Database"
-seoTitle: "2026 Guide to Creator Insights Database"
+seoTitle: "Guide to Creator Insights Database"
 seoDescription: "Explore Creator Insights, an AI-powered database offering real-time analytics, discovery tools, and marketing solutions for brands"
 datePublished: Sat Feb 14 2026 08:30:24 GMT+0000 (Coordinated Universal Time)
 cuid: cmlm23n1x000u02lecqeta776
